@@ -1,0 +1,11 @@
+1)¿En q consiste el negocio/tipos de servicio.
+2)Aspectos de los antecedentes del problema (c/u).
+3)Razones (2) para que la empresa sufra de los problemas decritos.
+4)Explicaciones de dichas razones
+5)Definición del problema
+6)Sobre qué dominios aterriza la problematica y porq
+7)Explicar cada dominio y el porq de los problemas
+8)Conclusiones - conclusiones en relación a los antecedentes
+9)nivel de madurez
+10)Empresa no preparada para la transformación digital (mi empresa
+necesita arquitectura empresarial? justificar)
